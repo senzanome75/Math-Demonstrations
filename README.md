@@ -1,2 +1,8 @@
-# Math-Demonstrations
+# Math Demonstrations
 Attempt at Mathematical Proofs
+
+1) https://ingegnerealbano.com/nuovo-approccio-a-una-dimostrazione-matematica/
+2) https://ingegnerealbano.com/possibile-aggressione-a-godel/
+3) https://ingegnerealbano.com/possibile-nuovo-invariante/
+
+Be really careful as I am a (**very**) amateur mathematician... :)
