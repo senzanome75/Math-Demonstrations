@@ -1,4 +1,4 @@
-# Math Demonstrations
+# Math Proofs
 Attempt at Mathematical Proofs
 
 1) https://ingegnerealbano.com/nuovo-approccio-a-una-dimostrazione-matematica/
