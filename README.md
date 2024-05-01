@@ -10,7 +10,7 @@ Be really careful as I am a (**very**) amateur mathematician... :)
 
 ---
 
-Some more in-depth explanations about the **Riemann conjecture** and the **Birch and Swinnerton-Dyer conjecture**.
+Some more in-depth explanations about the **Riemann conjecture** and the **Birch and Swinnerton-Dyer conjecture** (maybe wrong).
 
 1) https://chat.openai.com/share/0e7541bf-cbeb-42eb-bab7-0ad322ca8471
 2) https://chat.openai.com/share/0e7541bf-cbeb-42eb-bab7-0ad322ca8471
