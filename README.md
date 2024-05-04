@@ -14,3 +14,7 @@ Some more in-depth explanations about the **Riemann conjecture** and the **Birch
 
 1) https://chat.openai.com/share/0e7541bf-cbeb-42eb-bab7-0ad322ca8471
 2) https://chat.openai.com/share/0e7541bf-cbeb-42eb-bab7-0ad322ca8471
+
+---
+
+https://chatgpt.com/share/f2fa4693-c001-42d7-87ba-50f0fb2cd7a5
